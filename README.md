@@ -1,5 +1,7 @@
-# 💫 About Me:
-I'm an Informatics graduate with an interest in software development and continuous learning. I enjoy building applications, exploring new technologies, and improving my programming skills through personal projects.<br><br>🌱 Currently learning and working with:<br>☕ Java, Spring Boot, and Laravel<br>💻 Web Application Development<br>🗄️ Database Design with MySQL<br>🔧 RESTful API Development<br>🧪 Software Testing with Cypress & Postman<br>🌿 Git & GitHub
+# 👋 Hi, I'm Sekar Ayu Wulandari
+
+## 💫 About Me:
+I'm an Informatics graduate with an interest in software development and continuous learning. I enjoy building applications, exploring new technologies, and improving my programming skills through personal projects.<br><br>🌱 Currently learning and working with:<br>- ☕ Java, Spring Boot, and Laravel<br>- 💻 Web Application Development<br>- 🗄️ Database Design with MySQL<br>- 🔧 RESTful API Development<br>- 🧪 Software Testing with Cypress & Postman<br>- 🌿 Git & GitHub
 
 
 ## 🌐 Socials:
