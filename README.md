@@ -1,19 +1,18 @@
 ## Hello World, I'm Sekar 👋
 
-<!--
-**tinnytoon8/tinnytoon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics graduate who is passionate about Backend Development. I enjoy building web applications, learning new technologies, and improving my problem-solving skills through hands-on projects.
 
-Here are some ideas to get you started:
+Currently, I'm focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Spring Boot, Laravel, and RESTful API development.
+💾 Working with MySQL and database design.
+🧪 Exploring software testing using Postman.
+🚀 Building personal projects to strengthen my backend development skills.
+🛠 Tech Stack
+Languages: Java, PHP, JavaScript, SQL, HTML, CSS
+Frameworks: Spring Boot, Laravel, Filament
+Databases: MySQL
+Tools: Git, GitHub, Postman, Visual Studio Code, NetBeans, TablePlus
+📫 Let's Connect
 
-- 🔭 I’m currently working on **Lepkom Universitas Gunadarma**
-- 🌱 I’m currently learning **Laravel, QA, and Spring Boot**
+Feel free to explore my repositories and connect with me. I'm always excited to learn, improve, and collaborate on interesting projects.
