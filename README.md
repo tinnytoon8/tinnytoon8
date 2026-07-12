@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Lepkom Universitas Gunadarma**
-- 🌱 I’m currently learning **Laravel Framework, QA, and Golang**
+- 🌱 I’m currently learning **Laravel, QA, and Spring Boot**
